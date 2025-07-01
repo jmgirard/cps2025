@@ -1,0 +1,16 @@
+---
+title: "My Title:\\\\\\My Subtitle"
+author:
+  - name: Jane Doe
+    corresponding: true
+    affiliations:
+      - name: Generic University
+format:
+  apaquarto-docx: default
+  apaquarto-html: default
+  apaquarto-typst: default
+  apaquarto-pdf:
+    documentmode: man
+---
+
+Test

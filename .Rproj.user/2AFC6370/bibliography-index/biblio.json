@@ -1,0 +1,1824 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1177/0149206316679487",
+            "ISSN": "0149-2063",
+            "abstract": "In this editorial we discuss the problems associated with HARKing (Hypothesizing After Results Are Known) and draw a distinction between Sharking (Secretly HARKing in the Introduction section) and Tharking (Transparently HARKing in the Discussion section). Although there is never any justification for the process of Sharking, we argue that Tharking can promote the effectiveness and efficiency of both scientific inquiry and cumulative knowledge creation. We argue that the discussion sections of all empirical papers should include a subsection that reports post hoc exploratory data analysis. We explain how authors, reviewers, and editors can best leverage post hoc analyses in the spirit of scientific discovery in a way that does not bias parameter estimates and recognizes the lack of definitiveness associated with any single study or any single replication. We also discuss why the failure to Thark in high-stakes contexts where data is scarce and costly may also be unethical.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        6,
+                        30
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Hollenbeck",
+                    "given": "John R."
+                },
+                {
+                    "family": "Wright",
+                    "given": "Patrick M."
+                }
+            ],
+            "container-title": "Journal of Management",
+            "id": "hollenbeck_harking_2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "5-18",
+            "title": "Harking, sharking, and tharking: Making the case for post hoc analysis of scientific data",
+            "title-short": "Harking, sharking, and tharking",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "ISSN": "1082-989X",
+            "abstract": "Scientists, being human, make mistakes. We transcribe things incorrectly, we make errors in our code, and we intend to do things and then forget. The consequences of errors in research may be as minor as wasted time and annoyance, but may be as severe as losing months of work or having to retract an article. The purpose of this tutorial is to help lab groups identify places in their research workflow where errors may occur and identify ways to avoid them. To do this, this article applies concepts from human factors research on how to create lab cultures and workflows that are intended to minimize errors. This article does not provide a one-size-fits-all set of guidelines for specific practices to use (e.g., one platform on which to backup data); instead, it gives examples of ways that mistakes can occur in research along with recommendations for systems that avoid and detect them. This tutorial is intended to be used as a discussion prompt prior to a lab meeting to help researchers reflect on their own processes and implement safeguards to avoid future errors. (PsycInfo Database Record (c) 2025 APA, all rights reserved) (Source: journal abstract) Translational Abstract: Everyone makes mistakes. In science, mistakes can occur in many ways: Researchers may transcribe things incorrectly, make typos when writing code to analyze data, forget to do something they intended to, and so forth. These mistakes may simply waste time or require redoing work, but in more serious cases, they can ruin an experiment or lead to false conclusions. However, learning how to avoid errors in research isn’t a standard part of training. This tutorial is intended to help lab groups identify places in the research process where errors may occur and identify ways to avoid them. To do so, this article draws on lessons from high-risk fields such as aviation, surgery, and construction, all of which have developed explicit, practical strategies to reduce mistakes on the job. This tutorial is intended to be used as a discussion prompt before a lab meeting to help researchers reflect on their own processes and implement safeguards to avoid future errors. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        4,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Strand",
+                    "given": "Julia F."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "strand_error_2025",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "keyword": "Concepts, Data Sets, Errors, Experimental Laboratories, Forgetting, Methodology, Scientists",
+            "page": "416-424",
+            "title": "Error tight: Exercises for lab groups to prevent research mistakes",
+            "title-short": "Error tight",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "ISSN": "0027-8424, 1091-6490",
+            "abstract": "Progress in science relies in part on generating hypotheses with existing observations and testing hypotheses with new observations. This distinction between postdiction and prediction is appreciated conceptually but is not respected in practice. Mistaking generation of postdictions with testing of predictions reduces the credibility of research findings. However, ordinary biases in human reasoning, such as hindsight bias, make it hard to avoid this mistake. An effective solution is to define the research questions and analysis plan before observing the research outcomes—a process called preregistration. Preregistration distinguishes analyses and outcomes that result from predictions from those that result from postdictions. A variety of practical strategies are available to make the best possible use of preregistration in circumstances that fall short of the ideal application, such as when the data are preexisting. Services are now available for preregistration across all disciplines, facilitating a rapid increase in the practice. Widespread adoption of preregistration will increase distinctiveness between hypothesis generation and hypothesis testing and will improve the credibility of research findings.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        14
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Nosek",
+                    "given": "Brian A."
+                },
+                {
+                    "family": "Ebersole",
+                    "given": "Charles R."
+                },
+                {
+                    "family": "DeHaven",
+                    "given": "Alexander C."
+                },
+                {
+                    "family": "Mellor",
+                    "given": "David T."
+                }
+            ],
+            "container-title": "Proceedings of the National Academy of Sciences",
+            "id": "nosek_preregistration_2018",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "2600-2606",
+            "title": "The preregistration revolution",
+            "type": "article-journal",
+            "volume": "115"
+        },
+        {
+            "ISSN": "0021-843X",
+            "abstract": "Clinical scientists can use a continuum of registration efforts that vary in their disclosure and timing relative to data collection and analysis. Broadly speaking, registration benefits investigators by offering stronger, more powerful tests of theory with particular methods in tandem with better control of long-run false positive error rates. Registration helps clinical researchers in thinking through tensions between bandwidth and fidelity that surround recruiting participants, defining clinical phenotypes, handling comorbidity, treating missing data, and analyzing rich and complex data. In particular, registration helps record and justify the reasons behind specific study design decisions, though it also provides the opportunity to register entire decision trees with specific endpoints. Creating ever more faithful registrations and standard operating procedures may offer alternative methods of judging a clinical investigator’s scientific skill and eminence because study registration increases the transparency of clinical researchers’ work. (PsycInfo Database Record (c) 2025 APA, all rights reserved) (Source: journal abstract) General Scientific Summary—Study registration allows clinical scientists to make their work more credible and transparent to fellow researchers and the general public. We describe the dimensions of disclosure and timing relative to data collection and analysis on which researchers can register their study designs, how registration makes for better science, and the kinds of issues for which registration is particularly helpful in clinical research. We also show how registration permits researchers to flexibly register specific individual decisions or complex decision trees to deal with potential problems in a study. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Benning",
+                    "given": "Stephen D."
+                },
+                {
+                    "family": "Bachrach",
+                    "given": "Rachel L."
+                },
+                {
+                    "family": "Smith",
+                    "given": "Edward A."
+                },
+                {
+                    "family": "Freeman",
+                    "given": "Andrew J."
+                },
+                {
+                    "family": "Wright",
+                    "given": "Aidan G. C."
+                }
+            ],
+            "container-title": "Journal of Abnormal Psychology",
+            "id": "benning_registration_2019",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "Clinical Psychology, Comorbidity, Data Collection, Errors, Experimenters, Phenotypes, Sciences, Scientists, Statistical Analysis, Statistical Data",
+            "page": "528-540",
+            "title": "The registration continuum in clinical science: A guide toward transparent practices",
+            "title-short": "The registration continuum in clinical science",
+            "type": "article-journal",
+            "volume": "128"
+        },
+        {
+            "ISSN": "1556-2646",
+            "abstract": "We designed and tested the efficacy of a 1-hr training session to mitigate endorsement of questionable research practices (QRPs), research practices that raise ethical concerns and are detrimental to reproducible science, in psychology graduate students. We assessed attitudes toward QRPs 1 week prior to the training, 1 week following the training, and at 2-month follow-up. Participants reported QRPs as less ethically defensible 1 week following the intervention compared with 1 week prior, with attitudes at 2-month follow-up falling in between these time points. Results were maintained even when controlling for socially desirable responding. Participants who rated the training more favorably demonstrated greater attitude change toward detrimental research practices. These results provide evidence that an intervention to educate graduate students about QRPs and their negative impact on science can mitigate consideration of such practices as ethically defensible, although such benefits may not hold over time without additional training sessions.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Sacco",
+                    "given": "Donald F."
+                },
+                {
+                    "family": "Brown",
+                    "given": "Mitch"
+                }
+            ],
+            "container-title": "Journal of Empirical Research on Human Research Ethics",
+            "id": "sacco_assessing_2019",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "209-218",
+            "title": "Assessing the efficacy of a training intervention to reduce acceptance of questionable research practices in psychology graduate students",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "abstract": "Has there been meaningful movement toward open sci-ence practices within the social sciences in recent years? Discussions about changes in practices such as posting data and pre-registering analyses have been marked by controversy—including controversy over the extent to which change has taken place. This study, based on the State of Social Science (3S) Survey, provides the first com-prehensive assessment of awareness of, attitudes towards, perceived norms regarding, and adoption of open science practices within a broadly representative sample of scholars from four major social science disciplines: economics, political science, psychology, and so-ciology. We observe a steep increase in adoption: as of 2017, over 80% of scholars had used at least one such practice, rising from one quarter a decade earlier. Attitudes toward research transpar-ency are on average similar between older and younger scholars, but the pace of change di˙ers by field and methodology. According with theories of normal science and scientific change, the timing of increases in adoption coincides with technological innovations and institutional policies. Patterns are consistent with most scholars underestimating the trend toward open science in their discipline.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Christensen",
+                    "given": "Garret"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Zenan"
+                },
+                {
+                    "family": "Levy Paluck",
+                    "given": "Elizabeth"
+                },
+                {
+                    "family": "Swanson",
+                    "given": "Nicholas"
+                },
+                {
+                    "family": "Birke",
+                    "given": "David"
+                },
+                {
+                    "family": "Miguel",
+                    "given": "Edward"
+                },
+                {
+                    "family": "Littman",
+                    "given": "Rebecca"
+                }
+            ],
+            "id": "christensen_open_2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Center for Effective Global Action",
+            "publisher-place": "University of California, Berkeley",
+            "title": "Open science practices are on the rise: The state of social science (3S) survey",
+            "title-short": "Open science practices are on the rise",
+            "type": "report"
+        },
+        {
+            "ISSN": "1553-7358",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Sandve",
+                    "given": "Geir Kjetil"
+                },
+                {
+                    "family": "Nekrutenko",
+                    "given": "Anton"
+                },
+                {
+                    "family": "Taylor",
+                    "given": "James"
+                },
+                {
+                    "family": "Hovig",
+                    "given": "Eivind"
+                }
+            ],
+            "container-title": "PLOS Computational Biology",
+            "id": "sandve_ten_2013",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "keyword": "Archives, Computer and information sciences, Computer applications, Genome analysis, Habits, Replication studies, Reproducibility, Source code",
+            "page": "e1003285",
+            "title": "Ten simple rules for reproducible computational research",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1126/science.1213847",
+            "URL": "https://www.science.org/doi/10.1126/science.1213847",
+            "abstract": "Computational science has led to exciting new developments, but the nature of the work has exposed limitations in our ability to evaluate published findings. Reproducibility has the potential to serve as a minimum standard for judging scientific claims when full independent replication of a study is not possible.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Peng",
+                    "given": "Roger D."
+                }
+            ],
+            "container-title": "Science",
+            "id": "peng_reproducible_2011",
+            "issue": "6060",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "note": "Publisher: American Association for the Advancement of Science",
+            "page": "1226-1227",
+            "title": "Reproducible research in computational science",
+            "type": "article-journal",
+            "volume": "334"
+        },
+        {
+            "ISSN": "0010-4620, 1460-2067",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "D. E."
+                }
+            ],
+            "container-title": "The Computer Journal",
+            "id": "knuth_literate_1984",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1371/journal.pbio.3000246",
+            "ISSN": "1545-7885",
+            "URL": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246",
+            "abstract": "The movement towards open science is a consequence of seemingly pervasive failures to replicate previous research. This transition comes with great benefits but also significant challenges that are likely to affect those who carry out the research, usually early career researchers (ECRs). Here, we describe key benefits, including reputational gains, increased chances of publication, and a broader increase in the reliability of research. The increased chances of publication are supported by exploratory analyses indicating null findings are substantially more likely to be published via open registered reports in comparison to more conventional methods. These benefits are balanced by challenges that we have encountered and that involve increased costs in terms of flexibility, time, and issues with the current incentive structure, all of which seem to affect ECRs acutely. Although there are major obstacles to the early adoption of open science, overall open science practices should benefit both the ECR and improve the quality of research. We review 3 benefits and 3 challenges and provide suggestions from the perspective of ECRs for moving towards open science practices, which we believe scientists and institutions at all levels would do well to consider.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Allen",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "Mehler",
+                    "given": "David M. A."
+                }
+            ],
+            "container-title": "PLOS Biology",
+            "id": "allen_open_2019",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "Careers, Experimental design, Neuroimaging, Open data, Open science, Peer review, Reproducibility, Statistical data",
+            "note": "Publisher: Public Library of Science",
+            "page": "e3000246",
+            "title": "Open science challenges, benefits and tips in early career and beyond",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "ISSN": "1364-6613",
+            "abstract": "Preregistration clarifies the distinction between planned and unplanned research by reducing unnoticed flexibility. This improves credibility of findings and calibration of uncertainty. However, making decisions before conducting analyses requires practice. During report writing, respecting both what was planned and what actually happened requires good judgment and humility in making claims.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Nosek",
+                    "given": "Brian A."
+                },
+                {
+                    "family": "Beck",
+                    "given": "Emorie D."
+                },
+                {
+                    "family": "Campbell",
+                    "given": "Lorne"
+                },
+                {
+                    "family": "Flake",
+                    "given": "Jessica K."
+                },
+                {
+                    "family": "Hardwicke",
+                    "given": "Tom E."
+                },
+                {
+                    "family": "Mellor",
+                    "given": "David T."
+                },
+                {
+                    "dropping-particle": "van ’t",
+                    "family": "Veer",
+                    "given": "Anna E."
+                },
+                {
+                    "family": "Vazire",
+                    "given": "Simine"
+                }
+            ],
+            "container-title": "Trends in Cognitive Sciences",
+            "id": "nosek_preregistration_2019",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "confirmatory research, exploratory research, preregistration, reproducibility, transparency",
+            "page": "815-818",
+            "title": "Preregistration is hard, and worthwhile",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "ISSN": "2073-4859",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Boettiger",
+                    "given": "Carl"
+                },
+                {
+                    "family": "Eddelbuettel",
+                    "given": "Dirk"
+                }
+            ],
+            "container-title": "The R Journal",
+            "id": "boettiger_introduction_2017",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "527-536",
+            "title": "An introduction to rocker: Docker containers for R",
+            "title-short": "An introduction to rocker",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "ISSN": "1745691613489",
+            "abstract": "Psychology is in the early stages of examining a crisis of replicability stemming from several high-profile failures to replicate studies in experimental psychology. This important conversation has largely been focused on social psychology, with some active participation from cognitive psychology. Nevertheless, several other major domains of psychological science—including clinical science—have remained insulated from this discussion. The goals of this article are to (a) examine why clinical psychology and allied fields, such as counseling and school psychology, have not been central participants in the replicability conversation; (b) review concerns and recommendations that are less (or more) applicable to or appropriate for research in clinical psychology and allied fields; and (c) generate take-home messages for scholars and consumers of the literature in clinical psychology and allied fields, as well as reviewers, editors, and colleagues from other areas of psychological science.",
+            "author": [
+                {
+                    "family": "Tackett",
+                    "given": "Jennifer L"
+                },
+                {
+                    "family": "Lilienfeld",
+                    "given": "Scott O"
+                },
+                {
+                    "family": "Patrick",
+                    "given": "Christopher J"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Sheri L"
+                },
+                {
+                    "family": "Krueger",
+                    "given": "Robert F"
+                },
+                {
+                    "family": "Miller",
+                    "given": "Joshua D"
+                },
+                {
+                    "family": "Oltmanns",
+                    "given": "Thomas F"
+                },
+                {
+                    "family": "Shrout",
+                    "given": "Patrick E"
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "tackett_its_2017",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "742-756",
+            "title": "It’s time to broaden the replicability conversation: Thoughts for and from clinical psychological science",
+            "title-short": "It’s time to broaden the replicability conversation",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "abstract": "Reproducibility is a defining feature of science, but the extent to which it characterizes current research is unknown. We conducted replications of 100 experimental and correlational studies published in three psychology journals using high-powered designs and original materials when available. Replication effects were half the magnitude of original effects, representing a substantial decline. Ninety-seven percent of original studies had statistically significant results. Thirty-six percent of replications had statistically significant results; 47% of original effect sizes were in the 95% confidence interval of the replication effect size; 39% of effects were subjectively rated to have replicated the original result; and if no bias in original results is assumed, combining original and replication results left 68% with statistically significant effects. Correlational tests suggest that replication success was better predicted by the strength of original evidence than by characteristics of the original and replication teams.",
+            "author": [
+                {
+                    "family": "Aarts",
+                    "given": "Alexander A"
+                },
+                {
+                    "family": "Anderson",
+                    "given": "Joanna E"
+                },
+                {
+                    "family": "Anderson",
+                    "given": "Christopher J"
+                },
+                {
+                    "family": "Attridge",
+                    "given": "Peter R"
+                },
+                {
+                    "family": "Attwood",
+                    "given": "Angela"
+                },
+                {
+                    "family": "Axt",
+                    "given": "Jordan"
+                },
+                {
+                    "family": "Babel",
+                    "given": "Molly"
+                },
+                {
+                    "family": "Bahník",
+                    "given": "Štěpán"
+                },
+                {
+                    "family": "Baranski",
+                    "given": "Erica"
+                },
+                {
+                    "family": "Barnett-Cowan",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Bartmess",
+                    "given": "Elizabeth"
+                },
+                {
+                    "family": "Beer",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Bell",
+                    "given": "Raoul"
+                },
+                {
+                    "family": "Bentley",
+                    "given": "Heather"
+                },
+                {
+                    "family": "Beyan",
+                    "given": "Leah"
+                },
+                {
+                    "family": "Binion",
+                    "given": "Grace"
+                },
+                {
+                    "family": "Borsboom",
+                    "given": "Denny"
+                },
+                {
+                    "family": "Bosch",
+                    "given": "Annick"
+                },
+                {
+                    "family": "Bosco",
+                    "given": "Frank A"
+                },
+                {
+                    "family": "Bowman",
+                    "given": "Sara D"
+                },
+                {
+                    "family": "Brandt",
+                    "given": "Mark J"
+                },
+                {
+                    "family": "Braswell",
+                    "given": "Erin"
+                },
+                {
+                    "family": "Brohmer",
+                    "given": "Hilmar"
+                },
+                {
+                    "family": "Brown",
+                    "given": "Benjamin T"
+                },
+                {
+                    "family": "Brown",
+                    "given": "Kristina"
+                },
+                {
+                    "family": "Brüning",
+                    "given": "Jovita"
+                },
+                {
+                    "family": "Calhoun-Sauls",
+                    "given": "Ann"
+                },
+                {
+                    "family": "Callahan",
+                    "given": "Shannon P"
+                },
+                {
+                    "family": "Chagnon",
+                    "given": "Elizabeth"
+                },
+                {
+                    "family": "Chandler",
+                    "given": "Jesse"
+                },
+                {
+                    "family": "Chartier",
+                    "given": "Christopher R"
+                },
+                {
+                    "family": "Cheung",
+                    "given": "Felix"
+                },
+                {
+                    "family": "Christopherson",
+                    "given": "Cody D"
+                },
+                {
+                    "family": "Cillessen",
+                    "given": "Linda"
+                },
+                {
+                    "family": "Clay",
+                    "given": "Russ"
+                },
+                {
+                    "family": "Cleary",
+                    "given": "Hayley"
+                },
+                {
+                    "family": "Cloud",
+                    "given": "Mark D"
+                },
+                {
+                    "family": "Conn",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Cohoon",
+                    "given": "Johanna"
+                },
+                {
+                    "family": "Columbus",
+                    "given": "Simon"
+                },
+                {
+                    "family": "Cordes",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Costantini",
+                    "given": "Giulio"
+                },
+                {
+                    "family": "Alvarez",
+                    "given": "Leslie D Cramblet"
+                },
+                {
+                    "family": "Cremata",
+                    "given": "Ed"
+                },
+                {
+                    "family": "Crusius",
+                    "given": "Jan"
+                },
+                {
+                    "family": "DeCoster",
+                    "given": "Jamie"
+                },
+                {
+                    "family": "DeGaetano",
+                    "given": "Michelle A"
+                },
+                {
+                    "family": "Penna",
+                    "given": "Nicolás Delia"
+                },
+                {
+                    "family": "Den Bezemer",
+                    "given": "Bobby"
+                },
+                {
+                    "family": "Deserno",
+                    "given": "Marie K"
+                },
+                {
+                    "family": "Devitt",
+                    "given": "Olivia"
+                },
+                {
+                    "family": "Dewitte",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Dobolyi",
+                    "given": "David G"
+                },
+                {
+                    "family": "Dodson",
+                    "given": "Geneva T"
+                },
+                {
+                    "family": "Donnellan",
+                    "given": "M Brent"
+                },
+                {
+                    "family": "Donohue",
+                    "given": "Ryan"
+                },
+                {
+                    "family": "Dore",
+                    "given": "Rebecca A"
+                },
+                {
+                    "family": "Dorrough",
+                    "given": "Angela"
+                },
+                {
+                    "family": "Dreber",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Dugas",
+                    "given": "Michelle"
+                },
+                {
+                    "family": "Dunn",
+                    "given": "Elizabeth W"
+                },
+                {
+                    "family": "Easey",
+                    "given": "Kayleigh"
+                },
+                {
+                    "family": "Eboigbe",
+                    "given": "Sylvia"
+                },
+                {
+                    "family": "Eggleston",
+                    "given": "Casey"
+                },
+                {
+                    "family": "Embley",
+                    "given": "Jo"
+                },
+                {
+                    "family": "Epskamp",
+                    "given": "Sacha"
+                },
+                {
+                    "family": "Errington",
+                    "given": "Timothy M"
+                },
+                {
+                    "family": "Estel",
+                    "given": "Vivien"
+                },
+                {
+                    "family": "Farach",
+                    "given": "Frank J"
+                },
+                {
+                    "family": "Feather",
+                    "given": "Jenelle"
+                },
+                {
+                    "family": "Fedor",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Fernández-Castilla",
+                    "given": "Belén"
+                },
+                {
+                    "family": "Fiedler",
+                    "given": "Susann"
+                },
+                {
+                    "family": "Field",
+                    "given": "James G"
+                },
+                {
+                    "family": "Fitneva",
+                    "given": "Stanka A"
+                },
+                {
+                    "family": "Flagan",
+                    "given": "Taru"
+                },
+                {
+                    "family": "Forest",
+                    "given": "Amanda L"
+                },
+                {
+                    "family": "Forsell",
+                    "given": "Eskil"
+                },
+                {
+                    "family": "Foster",
+                    "given": "Joshua D"
+                },
+                {
+                    "family": "Frank",
+                    "given": "Michael C"
+                },
+                {
+                    "family": "Frazier",
+                    "given": "Rebecca S"
+                },
+                {
+                    "family": "Fuchs",
+                    "given": "Heather"
+                },
+                {
+                    "family": "Gable",
+                    "given": "Philip"
+                },
+                {
+                    "family": "Galak",
+                    "given": "Jeff"
+                },
+                {
+                    "family": "Galliani",
+                    "given": "Elisa Maria"
+                },
+                {
+                    "family": "Gampa",
+                    "given": "Anup"
+                },
+                {
+                    "family": "Garcia",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Gazarian",
+                    "given": "Douglas"
+                },
+                {
+                    "family": "Gilbert",
+                    "given": "Elizabeth"
+                },
+                {
+                    "family": "Giner-Sorolla",
+                    "given": "Roger"
+                },
+                {
+                    "family": "Glöckner",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Goellner",
+                    "given": "Lars"
+                },
+                {
+                    "family": "Goh",
+                    "given": "Jin X"
+                },
+                {
+                    "family": "Goldberg",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Goodbourn",
+                    "given": "Patrick T"
+                },
+                {
+                    "family": "Gordon-McKeon",
+                    "given": "Shauna"
+                },
+                {
+                    "family": "Gorges",
+                    "given": "Bryan"
+                },
+                {
+                    "family": "Gorges",
+                    "given": "Jessie"
+                },
+                {
+                    "family": "Goss",
+                    "given": "Justin"
+                },
+                {
+                    "family": "Graham",
+                    "given": "Jesse"
+                },
+                {
+                    "family": "Grange",
+                    "given": "James A"
+                },
+                {
+                    "family": "Gray",
+                    "given": "Jeremy"
+                },
+                {
+                    "family": "Hartgerink",
+                    "given": "Chris"
+                },
+                {
+                    "family": "Hartshorne",
+                    "given": "Joshua"
+                },
+                {
+                    "family": "Hasselman",
+                    "given": "Fred"
+                },
+                {
+                    "family": "Hayes",
+                    "given": "Timothy"
+                },
+                {
+                    "family": "Heikensten",
+                    "given": "Emma"
+                },
+                {
+                    "family": "Henninger",
+                    "given": "Felix"
+                },
+                {
+                    "family": "Hodsoll",
+                    "given": "John"
+                },
+                {
+                    "family": "Holubar",
+                    "given": "Taylor"
+                },
+                {
+                    "family": "Hoogendoorn",
+                    "given": "Gea"
+                },
+                {
+                    "family": "Humphries",
+                    "given": "Denise J"
+                },
+                {
+                    "family": "Hung",
+                    "given": "Cathy OY"
+                },
+                {
+                    "family": "Immelman",
+                    "given": "Nathali"
+                },
+                {
+                    "family": "Irsik",
+                    "given": "Vanessa C"
+                },
+                {
+                    "family": "Jahn",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Jäkel",
+                    "given": "Frank"
+                },
+                {
+                    "family": "Jekel",
+                    "given": "Marc"
+                },
+                {
+                    "family": "Johannesson",
+                    "given": "Magnus"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Larissa G"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "David J"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Kate M"
+                },
+                {
+                    "family": "Johnston",
+                    "given": "William J"
+                },
+                {
+                    "family": "Jonas",
+                    "given": "Kai"
+                },
+                {
+                    "family": "Joy-Gaba",
+                    "given": "Jennifer A"
+                },
+                {
+                    "family": "Kappes",
+                    "given": "Heather Barry"
+                },
+                {
+                    "family": "Kelso",
+                    "given": "Kim"
+                },
+                {
+                    "family": "Kidwell",
+                    "given": "Mallory C"
+                },
+                {
+                    "family": "Kim",
+                    "given": "Seung Kyung"
+                },
+                {
+                    "family": "Kirkhart",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Kleinberg",
+                    "given": "Bennett"
+                },
+                {
+                    "family": "Knežević",
+                    "given": "Goran"
+                },
+                {
+                    "family": "Kolorz",
+                    "given": "Franziska Maria"
+                },
+                {
+                    "family": "Kossakowski",
+                    "given": "Jolanda J"
+                },
+                {
+                    "family": "Krause",
+                    "given": "Robert Wilhelm"
+                },
+                {
+                    "family": "Krijnen",
+                    "given": "Job"
+                },
+                {
+                    "family": "Kuhlmann",
+                    "given": "Tim"
+                },
+                {
+                    "family": "Kunkels",
+                    "given": "Yoram K"
+                },
+                {
+                    "family": "Kyc",
+                    "given": "Megan M"
+                },
+                {
+                    "family": "Lai",
+                    "given": "Calvin K"
+                },
+                {
+                    "family": "Laique",
+                    "given": "Aamir"
+                },
+                {
+                    "family": "Lakens",
+                    "given": "Daniël"
+                },
+                {
+                    "family": "Lane",
+                    "given": "Kristin A"
+                },
+                {
+                    "family": "Lassetter",
+                    "given": "Bethany"
+                },
+                {
+                    "family": "Lazarević",
+                    "given": "Ljiljana B"
+                },
+                {
+                    "family": "Le Bel",
+                    "given": "Etienne P"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Key Jung"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Minha"
+                },
+                {
+                    "family": "Lemm",
+                    "given": "Kristi"
+                },
+                {
+                    "family": "Levitan",
+                    "given": "Carmel A"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Melissa"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Lin"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Stephanie"
+                },
+                {
+                    "family": "Lippold",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Loureiro",
+                    "given": "Darren"
+                },
+                {
+                    "family": "Luteijn",
+                    "given": "Ilse"
+                },
+                {
+                    "family": "MacKinnon",
+                    "given": "Sean"
+                },
+                {
+                    "family": "Mainard",
+                    "given": "Heather N"
+                },
+                {
+                    "family": "Marigold",
+                    "given": "Denise C"
+                },
+                {
+                    "family": "Martin",
+                    "given": "Daniel P"
+                },
+                {
+                    "family": "Martinez",
+                    "given": "Tylar"
+                },
+                {
+                    "family": "Masicampo",
+                    "given": "E J"
+                },
+                {
+                    "family": "Matacotta",
+                    "given": "Josh"
+                },
+                {
+                    "family": "Mathur",
+                    "given": "Maya"
+                },
+                {
+                    "family": "May",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Mechin",
+                    "given": "Nicole"
+                },
+                {
+                    "family": "Mehta",
+                    "given": "Pranjal"
+                },
+                {
+                    "family": "Meixner",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Melinger",
+                    "given": "Alissa"
+                },
+                {
+                    "family": "Miller",
+                    "given": "Jeremy K"
+                },
+                {
+                    "family": "Miller",
+                    "given": "Mallorie"
+                },
+                {
+                    "family": "Moore",
+                    "given": "Katherine"
+                },
+                {
+                    "family": "Möschl",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Motyl",
+                    "given": "Matt"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Stephanie M"
+                },
+                {
+                    "family": "Munafo",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Neijenhuijs",
+                    "given": "Koen I"
+                },
+                {
+                    "family": "Nervi",
+                    "given": "Taylor"
+                },
+                {
+                    "family": "Nicolas",
+                    "given": "Gandalf"
+                },
+                {
+                    "family": "Nilsonne",
+                    "given": "Gustav"
+                },
+                {
+                    "family": "Nosek",
+                    "given": "Brian A"
+                },
+                {
+                    "family": "Nuijten",
+                    "given": "Michèle B"
+                },
+                {
+                    "family": "Olsson",
+                    "given": "Catherine"
+                },
+                {
+                    "family": "Osborne",
+                    "given": "Colleen"
+                },
+                {
+                    "family": "Ostkamp",
+                    "given": "Lutz"
+                },
+                {
+                    "family": "Pavel",
+                    "given": "Misha"
+                },
+                {
+                    "family": "Penton-Voak",
+                    "given": "Ian S"
+                },
+                {
+                    "family": "Perna",
+                    "given": "Olivia"
+                },
+                {
+                    "family": "Pernet",
+                    "given": "Cyril"
+                },
+                {
+                    "family": "Perugini",
+                    "given": "Marco"
+                },
+                {
+                    "family": "Pipitone",
+                    "given": "R Nathan"
+                },
+                {
+                    "family": "Pitts",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Plessow",
+                    "given": "Franziska"
+                },
+                {
+                    "family": "Prenoveau",
+                    "given": "Jason M"
+                },
+                {
+                    "family": "Rahal",
+                    "given": "Rima Maria"
+                },
+                {
+                    "family": "Ratliff",
+                    "given": "Kate A"
+                },
+                {
+                    "family": "Reinhard",
+                    "given": "David"
+                },
+                {
+                    "family": "Renkewitz",
+                    "given": "Frank"
+                },
+                {
+                    "family": "Ricker",
+                    "given": "Ashley A"
+                },
+                {
+                    "family": "Rigney",
+                    "given": "Anastasia"
+                },
+                {
+                    "family": "Rivers",
+                    "given": "Andrew M"
+                },
+                {
+                    "family": "Roebke",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Rutchick",
+                    "given": "Abraham M"
+                },
+                {
+                    "family": "Ryan",
+                    "given": "Robert S"
+                },
+                {
+                    "family": "Sahin",
+                    "given": "Onur"
+                },
+                {
+                    "family": "Saide",
+                    "given": "Anondah"
+                },
+                {
+                    "family": "Sandstrom",
+                    "given": "Gillian M"
+                },
+                {
+                    "family": "Santos",
+                    "given": "David"
+                },
+                {
+                    "family": "Saxe",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Schlegelmilch",
+                    "given": "René"
+                },
+                {
+                    "family": "Schmidt",
+                    "given": "Kathleen"
+                },
+                {
+                    "family": "Scholz",
+                    "given": "Sabine"
+                },
+                {
+                    "family": "Seibel",
+                    "given": "Larissa"
+                },
+                {
+                    "family": "Selterman",
+                    "given": "Dylan Faulkner"
+                },
+                {
+                    "family": "Shaki",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Simpson",
+                    "given": "William B"
+                },
+                {
+                    "family": "Sinclair",
+                    "given": "H Colleen"
+                },
+                {
+                    "family": "Skorinko",
+                    "given": "Jeanine L M"
+                },
+                {
+                    "family": "Slowik",
+                    "given": "Agnieszka"
+                },
+                {
+                    "family": "Snyder",
+                    "given": "Joel S"
+                },
+                {
+                    "family": "Soderberg",
+                    "given": "Courtney"
+                },
+                {
+                    "family": "Sonnleitner",
+                    "given": "Carina"
+                },
+                {
+                    "family": "Spencer",
+                    "given": "Nick"
+                },
+                {
+                    "family": "Spies",
+                    "given": "Jeffrey R"
+                },
+                {
+                    "family": "Steegen",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Stieger",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Strohminger",
+                    "given": "Nina"
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Gavin B"
+                },
+                {
+                    "family": "Talhelm",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Tapia",
+                    "given": "Megan"
+                },
+                {
+                    "family": "Te Dorsthorst",
+                    "given": "Anniek"
+                },
+                {
+                    "family": "Thomae",
+                    "given": "Manuela"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Sarah L"
+                },
+                {
+                    "family": "Tio",
+                    "given": "Pia"
+                },
+                {
+                    "family": "Traets",
+                    "given": "Frits"
+                },
+                {
+                    "family": "Tsang",
+                    "given": "Steve"
+                },
+                {
+                    "family": "Tuerlinckx",
+                    "given": "Francis"
+                },
+                {
+                    "family": "Turchan",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Valášek",
+                    "given": "Milan"
+                },
+                {
+                    "family": "Van’t Veer",
+                    "given": "Anna E"
+                },
+                {
+                    "family": "Van Aert",
+                    "given": "Robbie"
+                },
+                {
+                    "family": "Van Assen",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Van Bork",
+                    "given": "Riet"
+                },
+                {
+                    "family": "Van De Ven",
+                    "given": "Mathijs"
+                },
+                {
+                    "family": "Van Den Bergh",
+                    "given": "Don"
+                },
+                {
+                    "family": "Van Der Hulst",
+                    "given": "Marije"
+                },
+                {
+                    "family": "Van Dooren",
+                    "given": "Roel"
+                },
+                {
+                    "family": "Van Doorn",
+                    "given": "Johnny"
+                },
+                {
+                    "family": "Van Renswoude",
+                    "given": "Daan R"
+                },
+                {
+                    "family": "Van Rijn",
+                    "given": "Hedderik"
+                },
+                {
+                    "family": "Vanpaemel",
+                    "given": "Wolf"
+                },
+                {
+                    "family": "Echeverría",
+                    "given": "Alejandro Vásquez"
+                },
+                {
+                    "family": "Vazquez",
+                    "given": "Melissa"
+                },
+                {
+                    "family": "Velez",
+                    "given": "Natalia"
+                },
+                {
+                    "family": "Vermue",
+                    "given": "Marieke"
+                },
+                {
+                    "family": "Verschoor",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Vianello",
+                    "given": "Michelangelo"
+                },
+                {
+                    "family": "Voracek",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Vuu",
+                    "given": "Gina"
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "Eric Jan"
+                },
+                {
+                    "family": "Weerdmeester",
+                    "given": "Joanneke"
+                },
+                {
+                    "family": "Welsh",
+                    "given": "Ashlee"
+                },
+                {
+                    "family": "Westgate",
+                    "given": "Erin C"
+                },
+                {
+                    "family": "Wissink",
+                    "given": "Joeri"
+                },
+                {
+                    "family": "Wood",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Woods",
+                    "given": "Andy"
+                },
+                {
+                    "family": "Wright",
+                    "given": "Emily"
+                },
+                {
+                    "family": "Wu",
+                    "given": "Sining"
+                },
+                {
+                    "family": "Zeelenberg",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Zuni",
+                    "given": "Kellylynn"
+                }
+            ],
+            "container-title": "Science",
+            "id": "aarts_estimating_2015",
+            "issue": "6251",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "keyword": "⛔ No DOI found",
+            "title": "Estimating the reproducibility of psychological science",
+            "type": "article-journal",
+            "volume": "349"
+        },
+        {
+            "author": [
+                {
+                    "family": "Merkel",
+                    "given": "Dirk"
+                }
+            ],
+            "container-title": "Linux journal",
+            "id": "merkel_docker_2014",
+            "issue": "239",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "2",
+            "title": "Docker: Lightweight linux containers for consistent development and deployment",
+            "title-short": "Docker",
+            "type": "article-journal",
+            "volume": "2014"
+        },
+        {
+            "author": [
+                {
+                    "family": "Ushey",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                }
+            ],
+            "id": "ushey_renv_2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "R package version 1.1.4, https://rstudio.github.io/renv",
+            "title": "Renv: Project Environments",
+            "title-short": "Renv",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Chacon",
+                    "given": "S"
+                },
+                {
+                    "family": "Straub",
+                    "given": "B"
+                }
+            ],
+            "edition": "2nd",
+            "id": "chacon_pro_2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "publisher": "Apress",
+            "title": "Pro Git",
+            "type": "book"
+        },
+        {
+            "URL": "https://quarto.org",
+            "author": [
+                {
+                    "family": "Scheidegger",
+                    "given": "Carlos"
+                },
+                {
+                    "family": "Woodhull",
+                    "given": "Gordon"
+                },
+                {
+                    "family": "Dervieux",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Teague",
+                    "given": "Charles"
+                },
+                {
+                    "family": "Allaire",
+                    "given": "J J"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "scheidegger_quarto_2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "publisher": "Posit, PBC",
+            "title": "Quarto",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Van Til",
+                    "given": "Kaela"
+                },
+                {
+                    "family": "Phillips",
+                    "given": "Nathaniel"
+                },
+                {
+                    "family": "Du",
+                    "given": "Tianwei"
+                },
+                {
+                    "family": "Rose",
+                    "given": "Leigha"
+                },
+                {
+                    "family": "Miller",
+                    "given": "Joshua"
+                },
+                {
+                    "family": "Lynam",
+                    "given": "Donald"
+                }
+            ],
+            "container-title": "Clinical Psychological Science",
+            "id": "van_til_open_2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        11
+                    ]
+                ]
+            },
+            "title": "Open science training in APA-accredited clinical psychology programs: A registered report",
+            "title-short": "Open science training in APA-accredited clinical psychology programs",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}
