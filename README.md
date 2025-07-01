@@ -3,7 +3,7 @@ This public repository contains the source and rendered documents for the
 article, "Computational and Pedagogical Tools for Open Science: Commentary on
 Van Til et al. (2025)" submitted to *Clinical Psychological Science*. It is
 primarily intended to showcase the use of
-[apaquarto](https://wjschne.github.io/apaquarto/) to write papers. The section
+[apaquarto](https://wjschne.github.io/apaquarto/) to write papers. The Code section
 above contains the following files:
 ### Input Files
 - `manuscript.qmd` Quarto instructions for how to build the paper, written by me
