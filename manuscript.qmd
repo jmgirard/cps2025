@@ -1,5 +1,5 @@
 ---
-title: "Computational and Pedagogical Tools for Open Science"
+title: "Computational and Pedagogical Tools for Open Science:\\\nCommentary on Van Til et al. (2025)"
 shorttitle: "Tools for Open Science"
 word-count: true
 author:
@@ -10,7 +10,7 @@ author:
     affiliations:
       - name: University of Kansas
         department: Department of Psychology
-        address: 1415 Jayhawk Blvd \#426
+        address: 1415 Jayhawk Blvd (Room 426)
         city: Lawrence
         region: KS
         country: USA
@@ -41,11 +41,11 @@ format:
     documentmode: man
 ---
 
-Open science offers powerful tools for promoting transparency, rigor, and accountability, yet clinical psychology has been slower than other subdisciplines to incorporate these practices into graduate training. This lag may reflect practical and ethical challenges unique to clinical research, such as handling sensitive data or working in applied, individualized settings. Still, these challenges do not preclude the adoption of core open science practices (e.g., preregistration, code sharing, reproducible workflows) that are increasingly standard elsewhere in psychology. @vantil2024Open make a valuable contribution by systematically evaluating where and how open science principles are, or are not, being taught in U.S. clinical psychology doctoral programs.
+Open science offers powerful tools for promoting transparency, rigor, and accountability, yet clinical psychology has been slower than other subdisciplines to incorporate these practices into graduate training. This lag may reflect practical and ethical challenges unique to clinical research, such as handling sensitive data or working in applied, individualized settings. Still, these challenges do not preclude the adoption of core open science practices (e.g., preregistration, code sharing, reproducible workflows) that are increasingly standard elsewhere in psychology. @vantil2025Open make a valuable contribution by systematically evaluating where and how open science principles are, or are not, being taught in U.S. clinical psychology doctoral programs.
 
 The study is itself a model of the practices it investigates. Designed and published as a registered report, it reflects a transparent research process. Using syllabus analysis and graduate student surveys, the authors document the limited and uneven exposure to open science topics in current training. While some programs assign relevant readings or assignments, relatively few offer hands-on opportunities to practice core behaviors such as preregistration or code sharing. Survey data echo this: students are generally interested in open science, but their training is inconsistent, and key practices like registered reports remain unfamiliar to many.
 
-This commentary builds on @vantil2024Open by focusing on how open science education can bridge the gap between aspiration and implementation. Cultivating a culture of transparency requires more than exposure to principles; it requires sustained, scaffolded training that equips students with both the tools and the mindset to carry out open and reproducible research. Doing so means engaging with the real constraints that shape graduate education: limited time, uneven expertise, entrenched curricula, and a pervasive fear of "doing science wrong" in an increasingly public research environment.
+This commentary builds on @vantil2025Open by focusing on how open science education can bridge the gap between aspiration and implementation. Cultivating a culture of transparency requires more than exposure to principles; it requires sustained, scaffolded training that equips students with both the tools and the mindset to carry out open and reproducible research. Doing so means engaging with the real constraints that shape graduate education: limited time, uneven expertise, entrenched curricula, and a pervasive fear of "doing science wrong" in an increasingly public research environment.
 
 Open science is not a panacea, but it offers a powerful path forward if we invest in the infrastructure, training, and culture necessary to support it. What follows reflects on what it means to teach open science in clinical psychology, explores the tools that enable reproducible workflows, and examines the barriers to its implementation.
 
