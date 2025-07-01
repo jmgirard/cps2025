@@ -12,6 +12,6 @@ above contains the following files:
 - `manuscript.docx` Quarto output (the paper) in Microsoft's DOCX format
 - `manuscript.pdf` Quarto output (the paper) in Adobe's PDF format
 ### Supporting Files
-- `_extensions/wjschne/apaquarto` Files to support APA7 formatting
-- `.gitignore` Files in my local folder for git to ignore
-- `README.md` Powers the text you are reading right now
+- `_extensions/wjschne/apaquarto` Files to enable APA7 formatting
+- `.gitignore` A list of files in my local folder for git to ignore
+- `README.md` A markdown file that powers the text you are now reading
