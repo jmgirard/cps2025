@@ -13,5 +13,5 @@ above contains the following files:
 - `manuscript.pdf` Quarto output (the paper) in Adobe's PDF format
 ### Supporting Files
 - `_extensions/wjschne/apaquarto` Files to enable APA7 formatting
-- `.gitignore` A list of files in my local folder for git to ignore
+- `.gitignore` A list of files in my local folder that git should ignore
 - `README.md` A markdown file that powers the text you are now reading
