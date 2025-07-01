@@ -1,4 +1,6 @@
-# cps2025 This public repository contains the source and rendered documents for
+# cps2025 
+
+This public repository contains the source and rendered documents for
 the article, "Computational and Pedagogical Tools for Open Science: Commentary
 on Van Til et al. (2025)" submitted to *Clinical Psychological Science*. It is
 primarily intended to showcase the use of
