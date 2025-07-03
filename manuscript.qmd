@@ -137,7 +137,7 @@ This manuscript was written with the assistance of a large language model (ChatG
 
 # Author Contributions
 
-Conceptualization: J. Girard. Writing -- Original Draft Preparation: J. Girard.
+Conceptualization: J. Girard; Writing -- Original Draft Preparation: J. Girard.
 
 # Conflicts of Interest
 
