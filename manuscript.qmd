@@ -24,7 +24,7 @@ author-note:
     deceased: ~
   disclosures:
     study-registration: ~
-    data-sharing: Supplemental materials are available from <https://github.com/jmgirard/cps2025>.
+    data-sharing: "Supplemental materials are available from: <https://github.com/jmgirard/cps2025>"
     related-report: ~
     conflict-of-interest: ~
     financial-support: ~
