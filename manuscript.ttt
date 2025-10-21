@@ -1,0 +1,25 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+
+{\caption{{Recommended Readings}{\label{tbl-readings}}}
+\vspace{-20pt}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Tool & Readings \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Code-based Workflows & Wickham et al.
+(\citeproc{ref-wickham2023}{2023}), Turrell et al.
+(\citeproc{ref-turrell2025}{2025}) \\
+Literate Programming & 2 \\
+Version Control & 3 \\
+Dependency Management & 4 \\
+Containerization & Boettiger and Eddelbuettel
+(\citeproc{ref-boettiger2017}{2017}) \\
+\end{longtable}
+
+\end{table*}
