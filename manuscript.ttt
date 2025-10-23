@@ -1,0 +1,33 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+
+{\caption{{Recommended Tools and Readings}{\label{tbl-tools}}}
+\vspace{-20pt}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2000}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.4500}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Topic
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Tool
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Reading
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Code-based workflows & tidyverse & Wickham et al.
+(\citeproc{ref-wickham2023}{2023}) \\
+Literate programming & Quarto & Scheidegger et al.
+(\citeproc{ref-scheidegger2025}{2025}) \\
+Version control & Git & Bryan (\citeproc{ref-bryan2016}{2016}) \\
+Environment management & rang & Chan and Schoch
+(\citeproc{ref-chan2023}{2023}) \\
+\end{longtable}
+
+\end{table*}
