@@ -26,7 +26,7 @@ author-note:
     data-sharing: "Supplemental materials are available from: <https://github.com/jmgirard/cps2025>"
     related-report: ~
     conflict-of-interest: ~
-    financial-support: ~
+    financial-support: "Research reported in this publication was supported by the National Institute of General Medical Sciences and Office of the Director of the National Institutes of Health under Award Number P20 GM152280."
     gratitude: ~
     authorship-agreements: ~
 abstract: "Open science promises greater transparency and rigor, yet clinical psychology has lagged in integrating it into graduate training. This commentary builds on recent evidence that open-science instruction in U.S. programs remains uneven and largely conceptual. I argue that progress requires more than awareness: it depends on pedagogical scaffolding, computational infrastructure, and cultural alignment. Embedding reproducible, code-based workflows, literate programming, and ethical transparency throughout training can make openness both feasible and normative. By treating transparency as a professional competency, supported by open educational resources and institutional incentives, clinical psychology can model how to cultivate a sustainable culture of open science."
@@ -34,7 +34,7 @@ keywords: [commentary, open science, graduate training, research methods]
 bibliography: bibliography.bib
 format:
   apaquarto-docx:
-    blank-lines-above-author-note: 11
+    blank-lines-above-author-note: 7
   apaquarto-pdf:
     documentmode: man
 ---
